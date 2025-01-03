@@ -1,7 +1,7 @@
 # Vision-based Air-flow Monitoring System Design in Industrial Flares using Transfer Learning with Deep Convolutional Neural Networks
 [ESWA](www.google.com) | [Cite](#references)
 
-<img src="doc/fig.jpg" width="1000px" align="center" />
+<img src="doc/fig1.jpg" width="1000px" align="center" />
 
 ***Overview:** The first work to utilize vision to build an air-flow monitoring system in industrial flares that supports real-time, robust, efficient, accurate diagnosis, and automatic/human-in-the-loop decision making.*
 
