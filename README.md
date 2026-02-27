@@ -11,15 +11,15 @@
 
 ## Pre-requisites: coming soon.
 
-## Training: coming soon.
+## Training: *coming soon.
 
-## Inference: coming soon.
+## Inference: *coming soon.
 
-## Examples: coming soon.
+## Examples: *coming soon.
 
-## Dataset: coming soon.
+## Dataset: *coming soon.
 
-## References: coming soon. 
+## References: *coming soon. 
 ```
 @article{boumaraf2025vision,
   title={Vision-based air-flow monitoring in an industrial flare system design using deep convolutional neural networks},
