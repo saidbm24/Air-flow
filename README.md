@@ -1,5 +1,5 @@
 # Vision-based air-flow monitoring in an industrial flare system design using deep convolutional neural networks
-[ESWA](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003550) | [Cite](#references)
+[ESWA](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003550) | [Cite](https://scholar.googleusercontent.com/scholar.bib?q=info:leWjqrkqZdwJ:scholar.google.com/&output=citation&scisdr=Cl8gJhemEK-tnBvITco:AFtJQiwAAAAAaaHOVcpt3t4XOsQIL3qfYu2E2zc&scisig=AFtJQiwAAAAAaaHOVV9g-I4UWQ0JgNjG1XFCSYg&scisf=4&ct=citation&cd=-1&hl=en)
 
 <img src="doc/fig1.jpg" width="1000px" align="center" />
 
