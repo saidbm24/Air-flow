@@ -19,13 +19,12 @@
 
 ## References:
 ```
-@article{airflow,
-  title={Vision-based Air-flow Monitoring System Design in Industrial Flares using Transfer Learning with Deep Convolutional Neural Networks},
-  author={....},
+@article{boumaraf2025vision,
+  title={Vision-based air-flow monitoring in an industrial flare system design using deep convolutional neural networks},
+  author={Boumaraf, Said and Al Radi, Muaz and Abdelhafez, Fares Oussama and Li, Pengfei and Al Awadhi, Khalid Yousef and Karki, Hamad and Dhelim, Sahraoui and Werghi, Naoufel},
   journal={Expert Systems with Applications},
-  volume={..},
-  number={..},
-  pages={...},
+  volume={272},
+  pages={126733},
   year={2025},
   publisher={Elsevier}
 }
